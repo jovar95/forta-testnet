@@ -54,7 +54,7 @@ Add a file called daemon.json to your /etc/docker directory with the following c
     ]
 }
 ```
-This deamon.json should be located here
+This daemon.json should be located here
 
 ![image](https://user-images.githubusercontent.com/62967690/164976600-d1971074-bc20-43e6-b4a2-025505b34485.png)
 
