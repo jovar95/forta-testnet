@@ -156,4 +156,4 @@ Once transaction finished you have to send **FORM** that you received by e-mail
 
 I hope this guide helped you to run your node
 
-Nick
+Nick Kaufmann
